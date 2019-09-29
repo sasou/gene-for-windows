@@ -1,12 +1,13 @@
 # php-gene-for-windows
 php-gene-for-windows
 
-dll对应的php版本：
-7.0.33
-7.1.32
-7.2.23
-7.3.10
-注意选择对应版本的php运行环境（不能低于dll的版本），当前dll都是x86 NTS版本，需要Ts版本的需要自行编译。 
+当前dll都是x86 NTS版本，需要Ts版本的需要自行编译,dll对应的php版本：  
+7.0.33  
+7.1.32  
+7.2.23  
+7.3.10  
+注意选择对应版本的php运行环境（不能低于dll的版本）;
+
 TS :Thread Safety，即线程安全，一般在IIS以ISAPI方式加载的时候选择这个版本。 
 NTS:None-Thread Safe，一般以fast cgi方式运行的时候选择这个版本，具有更好的性能。  
 
