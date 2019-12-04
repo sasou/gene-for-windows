@@ -1,7 +1,7 @@
-# php-gene-for-windows
-php-gene-for-windows
+# gene-for-windows
+gene-for-windows
 
-当前dll都是x86 NTS版本，需要Ts版本的需要自行编译，dll对应的php版本：  
+gene dll扩展分x86、x64平台，同时区分NTS、Ts版本：  
 7.0.33 (vc14) 
 7.1.32 (vc14) 
 7.2.23 (vc15) 
