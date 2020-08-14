@@ -1,5 +1,5 @@
-# gene-for-windows
-gene-for-windows  
+# gene-for-windows  
+gene-for-windows   
 
 gene dll扩展分x86、x64平台，同时区分NTS、Ts版本：  
 7.0.33 (vc14)   
